@@ -1,6 +1,6 @@
 {
-    "name": "cybersafe_tips",
-    "short_name": "cybersafe_tips",
+    "name": "App Guard",
+    "short_name": "App Guard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
